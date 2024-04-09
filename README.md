@@ -2,6 +2,7 @@
 
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com)](https://sujeitoprogramador.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ghustavi_santtana)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-santana-ba7b8827a/)
 
 ![GustavoSanttana GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavosanttana&show_icons=true&theme=dracula)
 
